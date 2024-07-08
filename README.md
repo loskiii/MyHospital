@@ -67,6 +67,4 @@ Have an idea, a bug report, or just want to say hi? Open an issue or send us a p
 
 Stay healthy, stay happy, and happy coding!
 
----
 
-Feel free to modify and personalize this to better suit your project's vibe and your sense of humor!
